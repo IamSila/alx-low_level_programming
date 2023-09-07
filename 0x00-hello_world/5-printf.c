@@ -1,9 +1,4 @@
-/*
- * written by sila mulingi
- */
-
 #include <stdio.h>
-
 
 /**
  * main() -> Entry point
