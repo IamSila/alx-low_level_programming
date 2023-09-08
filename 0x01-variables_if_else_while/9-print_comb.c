@@ -4,7 +4,6 @@
 
 
 /**
- * all possible combinations of a letter
  *
  * main - is the entry point of a program
  *
@@ -15,7 +14,6 @@
 int main(void)
 {
 	int x = '0';
-
 	while (x <= '9')
 	{
 		putchar(x);
@@ -27,6 +25,5 @@ int main(void)
 		x++;
 	}
 	putchar('\n');
-
 	return (0);
 }
