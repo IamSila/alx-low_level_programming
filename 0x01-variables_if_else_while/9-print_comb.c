@@ -1,19 +1,14 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-
+#include<stdio.h>
 
 /**
- *
- * main - is the entry point of a program
- *
- * Return: is always zero 
- *
+ * main - print 0-9 separated with commas, using putchar
+ * Return: Always 0
  */
 
 int main(void)
 {
 	int x = '0';
+
 	while (x <= '9')
 	{
 		putchar(x);
@@ -25,5 +20,6 @@ int main(void)
 		x++;
 	}
 	putchar('\n');
+
 	return (0);
 }
