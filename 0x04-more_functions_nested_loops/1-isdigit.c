@@ -1,6 +1,7 @@
 #include "main.h"
 
-/* main - entry point for the program
+/**
+ * main - entry point for the program
  *
  * Return - value is always 0
  *
