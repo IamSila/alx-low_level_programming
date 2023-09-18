@@ -4,14 +4,9 @@
 /**
  * _strlen - checks the length of a string
  *
- *
- * @s: this is the string to check
- *
- *
+ * @s: this is the string to chec
  *
  * Return: int length of the string
- *
- *
  *
  * in this case sl is var name for the string length
  */
