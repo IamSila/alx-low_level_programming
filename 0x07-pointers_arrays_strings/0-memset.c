@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _memset - the function sets memory to array
- * @s: array 
+ * _memset - sets memory to array
+ * @s: array to set
  * @b: value to set it as
- * @n: the number of  of times
- * Return: value of s which is a char
+ * @n: n amount of times
+ * Return: char value of s
  */
 
 char *_memset(char *s, char b, unsigned int n)
