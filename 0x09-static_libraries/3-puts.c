@@ -1,18 +1,22 @@
 #include "main.h"
-#include "2-strlen.c"
+
 /**
- * _puts - puts a string
- *
- * @str: string to print
- * btw nimenstruggle na hii
+ * _puts - prints a string, followed by a new line.
+ * @str: input string.
+ * Return: no return.
  */
 void _puts(char *str)
 {
-	int i;
+	int count = 0;
 
-	for (i = 0; *(str + i) != '\0'; i++)
+	while (count >= 0)
 	{
-		_putchar(*(str + i));
+		if (str[count] == '\0')
+		{
+			_putchar('\n');
+			break;
+		}
+		_putchar(str[count]);
+		count++;
 	}
-	_putchar('\n');
 }
