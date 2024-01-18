@@ -5,7 +5,7 @@
  *
  * Return: is always a zero unless otherwise
  *
- */
+*/
 
 int main(void)
 {
