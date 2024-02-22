@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	unsigned long a = 0, b = 1, next = 0;
-	int sum = 0;
+	unsigned long a = 0, b = 1, next = 0, sum;
+	sum = 0;
 
 	while (next < 4000000)
 	{
@@ -22,6 +22,6 @@ int main(void)
 		}
 	}
 
-	printf("%d\n", sum);
+	printf("lu\n", sum);
 	return (0);
 }
