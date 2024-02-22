@@ -5,9 +5,15 @@
  *main - Entry point for the program
  *Return: is always 0
  */
+
+
 int main(void)
 {
-	unsigned long a = 0, b = 1, next = 0, sum;
+	unsigned long a, b, next, sum;
+
+	a = 0;
+	b = 1;
+	next = 0;
 	sum = 0;
 
 	while (next < 4000000)
