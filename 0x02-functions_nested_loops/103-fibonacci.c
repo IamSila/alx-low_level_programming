@@ -9,21 +9,21 @@
 
 int main(void)
 {
-	unsigned long x, y, z, sum;
+	unsigned long a, b, next, sum;
 
-	z = 0;
-	x = 0;
-	y = 1;
+	next = 0;
+	a = 0;
+	b = 1;
 	sum = 0;
 
-	while (z < 4000000)
+	while (next < 4000000)
 	{
-		z = x + y;
-		x = y;
-		y = z;
+		next = a + b;
+		a = b;
+		b = next;
 
-		if (z % 2 == 0)
-			sum += z;
+		if (next % 2 == 0)
+			sum += next;
 	}
 
 	printf("%lu\n", sum);
