@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34d5994b-add7-46a9-bedd-0b7f8945edef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/.5-printf.c.swp" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/.5-printf.c.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/101-quote.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/101-quote.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/4-puts.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/5-printf.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/6-size.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/6-size.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-hello_world/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-hello_world/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/.6-print_numberz.c.swp" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/.6-print_numberz.c.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/0x01-variables_if_else_while.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/0x01-variables_if_else_while.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/101-print_comb4.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/101-print_comb4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-variables_if_else_while/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-variables_if_else_while/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/0-putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/0-putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/1-alphabet.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/1-alphabet.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/10-add.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/10-add.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/10-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/10-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/100-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/100-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/100-times_table.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/100-times_table.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/101-natural.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/101-natural.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/102-fibonacci.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/102-fibonacci.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/103-fibonacci.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/103-fibonacci.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/104-fibonacci.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/104-fibonacci.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/11-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/11-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/11-print_to_98.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/11-print_to_98.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/2-print_alphabet_x10.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/2-print_alphabet_x10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/3-islower.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/3-islower.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/4-isalpha.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/4-isalpha.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/5-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/5-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/5-sign.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/5-sign.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/6-abs.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/6-abs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/6-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/6-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/7-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/7-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/7-print_last_digit.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/7-print_last_digit.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/8-24_hours.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/8-24_hours.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/8-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/8-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/9-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/9-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/9-times_table.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/9-times_table.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02-functions_nested_loops/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-functions_nested_loops/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/2-largest_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/2-largest_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-debugging/positive_or_negative.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-debugging/positive_or_negative.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04-more_functions_nested_loops/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-more_functions_nested_loops/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-more_functions_nested_loops/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/0-strcat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/0-strcat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/1-strncat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/1-strncat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/2-strncpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/2-strncpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/3-strcmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/3-strcmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/4-rev_array.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/4-rev_array.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/5-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/5-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/5-string_toupper.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/5-string_toupper.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/6-cap_string.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/6-cap_string.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/6-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/6-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/7-leet.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/7-leet.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/7-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/7-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06-pointers_arrays_strings/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x06-pointers_arrays_strings/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/0-memset.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/0-memset.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/1-memcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/1-memcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/2-strchr.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/2-strchr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/3-strspn.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/3-strspn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/4-strpbrk.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/4-strpbrk.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/5-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/5-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/5-strstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/5-strstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/7-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/7-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/7-print_chessboard.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/7-print_chessboard.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/8-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/8-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/8-print_diagsums.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/8-print_diagsums.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-pointers_arrays_strings/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-pointers_arrays_strings/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/0-puts_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/0-puts_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/1-print_rev_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/1-print_rev_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/2-strlen_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/3-factorial.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/4-pow_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/5-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/5-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/5-sqrt_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/6-is_prime_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/6-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/6-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-recursion/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-recursion/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-isupper.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-isupper.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-isupper.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-isupper.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-memset.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-memset.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-memset.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-memset.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-strcat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-strcat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/0-strcat.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/0-strcat.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-isdigit.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-isdigit.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-isdigit.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-isdigit.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-memcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-memcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-memcpy.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-memcpy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-strncat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-strncat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/1-strncat.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/1-strncat.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/100-atoi.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/100-atoi.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/100-atoi.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/100-atoi.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strchr.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strchr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strchr.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strchr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strlen.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strlen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strlen.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strlen.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strncpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strncpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/2-strncpy.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/2-strncpy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-islower.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-islower.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-islower.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-islower.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-puts.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-puts.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-puts.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-puts.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-strcmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-strcmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-strcmp.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-strcmp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-strspn.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-strspn.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/3-strspn.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/3-strspn.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/4-isalpha.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/4-isalpha.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/4-isalpha.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/4-isalpha.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/4-strpbrk.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/4-strpbrk.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/4-strpbrk.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/4-strpbrk.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/5-strstr.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/5-strstr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/5-strstr.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/5-strstr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/6-abs.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/6-abs.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/6-abs.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/6-abs.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/9-strcpy.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/9-strcpy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/9-strcpy.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/9-strcpy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/_putchar.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/_putchar.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/liball.a" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/liball.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/libmy.a" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/libmy.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09-static_libraries/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x09-static_libraries/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/0-whatsmyname.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/0-whatsmyname.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/1-args.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/1-args.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/100-change.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/100-change.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/2-args.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/2-args.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/3-mul.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/3-mul.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/4-add.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/4-add.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0A-argc_argv/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0A-argc_argv/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/0-create_array.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/0-create_array.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/1-strdup.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/1-strdup.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/2-str_concat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/2-str_concat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/3-alloc_grid.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/3-alloc_grid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/4-free_grid.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/4-free_grid.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-malloc_free/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-malloc_free/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/0-malloc_checked.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/0-malloc_checked.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/1-string_nconcat.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/1-string_nconcat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/2-calloc.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/2-calloc.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/3-array_range.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/3-array_range.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-more_malloc_free/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-more_malloc_free/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/0-object_like_macro.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/0-object_like_macro.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/02-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/02-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/1-pi.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/1-pi.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/3-function_like_macro.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/3-function_like_macro.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/4-sum.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/4-sum.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0D-preprocessor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0D-preprocessor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/1-init_dog.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/1-init_dog.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/2-print_dog.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/2-print_dog.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/4-new_dog.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/4-new_dog.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/5-free_dog.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/5-free_dog.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/5-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/5-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0E-structures_typedef/dog.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x0E-structures_typedef/dog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/0-print_list.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/0-print_list.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/1-list_len.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/1-list_len.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/100-first.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/100-first.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/100-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/100-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/101-hello_holberton.asm" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/101-hello_holberton.asm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/101-hello_holberton.o" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/101-hello_holberton.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/2-add_node.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/2-add_node.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/3-add_node_end.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/3-add_node_end.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/3-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/3-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/4-free_list.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/4-free_list.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/4-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/4-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/_putchar.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/_putchar.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-singly_linked_lists/lists.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-singly_linked_lists/lists.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/0-print_listint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/0-print_listint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/1-listint_len.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/1-listint_len.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/10-delete_nodeint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/10-delete_nodeint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/2-add_nodeint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/2-add_nodeint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/3-add_nodeint_end.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/3-add_nodeint_end.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/4-free_listint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/4-free_listint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/5-free_listint2.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/5-free_listint2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/6-pop_listint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/6-pop_listint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/7-get_nodeint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/7-get_nodeint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/8-sum_listint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/8-sum_listint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/9-insert_nodeint.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/9-insert_nodeint.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x13-more_singly_linked_lists/lists.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x13-more_singly_linked_lists/lists.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/0-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/0-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/0-read_textfile.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/0-read_textfile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/1-create_file.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/1-create_file.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/1-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/1-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/2-append_text_to_file.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/2-append_text_to_file.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/2-main.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/2-main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/3-cp.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/3-cp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/Incitatous" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/Incitatous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/Requiescat" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/Requiescat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/incitatous" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/incitatous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-file_io/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-file_io/main.h" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0x0B-malloc_free/0-create_array.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0x0B-malloc_free/0-main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.c" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch..txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/alx-low_level_programming.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="68" />
+    <option name="width" value="1366" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alx-low_level_programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alx-low_level_programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alx-low_level_programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alx-low_level_programming" type="462c0819:PsiDirectoryNode" />
+              <item name="0x0B-malloc_free" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake&#10;ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x01-variables_if_else_while/0-positive_or_negative.c" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d5994b-add7-46a9-bedd-0b7f8945edef" name="Default Changelist" comment="" />
+      <created>1712065128901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712065128901</updated>
+      <workItem from="1712065132750" duration="1106000" />
+      <workItem from="1712066510239" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1369000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="68" width="1366" height="700" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25377643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32930514" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch..txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x0B-malloc_free/0-create_array.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0x0B-malloc_free/0-main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
