@@ -11,11 +11,13 @@
 int main(void)
 {
 	int n;
-
+	int lastDgit;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	int lastDgit = n % 10;
+
+
+	lastDgit = n % 10;
 
 	if (lastDgit > 5)
 	{
