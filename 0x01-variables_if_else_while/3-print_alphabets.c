@@ -13,12 +13,12 @@ int main(void)
 	small = 'a';
 	capital = 'A';
 
-	while (small < 'z')
+	while (small <= 'z')
 	{
 		putchar(small);
 		small++;
 	}
-	while (capital < 'Z')
+	while (capital <= 'Z')
 	{
 		putchar(capital);
 		capital++;
