@@ -3,7 +3,11 @@
 #include <time.h>
 /* more headers go here */
 
-/* betty style doc for function main goes here */
+/**
+ * main - check the code
+ * Return: is always 0
+ */
+
 int main(void)
 {
 	int n;
