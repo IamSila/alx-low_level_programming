@@ -2,6 +2,7 @@
 
 /**
  * _islower - checks if if character is lowercase
+ * @c: is the ascii value representing the character
  * Return: always 1 if letter lowercase and 0 otherwise
  * author - Sila Mulingi [https://www.github.com/IamSila]
  */
@@ -22,6 +23,6 @@ int _islower(int c)
 	{
 		return (0);
 	}
-	
+
 }
 
