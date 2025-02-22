@@ -3,6 +3,7 @@
 /**
  * main - check the code
  * Return: always 0
+ * author - Sila Mulingi
  */
 
 int main(void)
