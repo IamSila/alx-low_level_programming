@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * print_alphabet_x10 - prints the all alphabets in lowercase 10x
+ * Return: nothing
+ * author - Sila Muling [https://www.github.com/IamSila]
+ */
 
 void print_alphabet_x10(void)
 {
