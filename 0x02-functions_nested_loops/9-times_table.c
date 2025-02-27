@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * times_table(void)
@@ -16,9 +17,31 @@ void times_table(void)
 		for (j = 0; j <= 9; j++)
 		{
 			product = i * j;
-			_putchar(product + '0');
-			_putchar(' ');
+			if (product > 9)
+			{
+				_putchar(product / 10 + '0');
+				_putchar(product % 10 + '0');
+				if (j != 9)
+				{
+					_putchar(',');
+					_putchar(' ');
+					
+				}
+			}
+			else
+			{
+				_putchar(product + '0');
+				if (j != 9)
+				{
+					_putchar(',');
+					_putchar(' ');
+					_putchar(' ');
+					
+				}
+				
+			}
 		}
+		_putchar('\n');
 	}
 
 
