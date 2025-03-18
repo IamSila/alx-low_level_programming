@@ -3,7 +3,7 @@
 
 /**
  * _isupper - checks if a character is uppercase
- * @c - the character being checked
+ * @c: the character being checked
  * Return: Always 0
  * author - Sila Mulingi [https://wwww.github.com/IamSila]
  */
