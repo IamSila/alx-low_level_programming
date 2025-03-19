@@ -10,7 +10,6 @@ void more_numbers(void)
 {
 	int number;
 	int i;
-	int num1, num2;
 
 	for (i = 0; i <= 9; i++)
 	{
@@ -18,17 +17,14 @@ void more_numbers(void)
 		{
 			if (number >= 10)
 			{
-				num1 = number / 10;
-				num2 = number % 10;
-				_putchar(num1 + '0');
-				_putchar(num2 + '0');
+				_putchar(number / 10 + '0');
+				_putchar(number % 10 + '0');
 			}
 			else
 			{
 				_putchar(number + '0');
 			}
-	
-	}
+		}
 		_putchar('\n');
 	}
 }
