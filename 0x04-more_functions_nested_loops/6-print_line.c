@@ -10,10 +10,8 @@
 
 void print_line(int n)
 {
-	/* test case
-	 * if n is 2 then __
-	 *
-	 *
+	/**
+	 * test case if n is 2 then __
 	 */
 
 	int length;
