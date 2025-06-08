@@ -1,6 +1,5 @@
 #include "main.h"
 #include "2-strlen.c"
-#include <stdio.h>
 
 
 /**
@@ -16,11 +15,10 @@ char *_strcpy(char *dest, char *src)
 	
 
 	length = _strlen(src);
-	for (i = 0; i < length || i == '\0'; i++)
+	for (i = 0; i <= length; i++)
 	{
 		dest[i] = src[i];
 	}
-	printf("\n");
 	return (dest);
 }
 
