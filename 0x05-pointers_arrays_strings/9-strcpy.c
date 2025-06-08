@@ -5,14 +5,15 @@
 /**
  * _strcpy - copies one string into another
  * @dest: final string
- * @src - source string to copy from
+ * @src: source string to copy from
+ * Return: The final copied version of src
  */
 
 char *_strcpy(char *dest, char *src)
 {
 	int length;
 	int i;
-	
+
 
 	length = _strlen(src);
 	for (i = 0; i <= length; i++)
