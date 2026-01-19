@@ -2,19 +2,14 @@
 #include "function_pointers.h"
 
 /**
-* print_name - prints the name passed to a function
-* @name: the name to print
-* @f: memory location for the function printing name
-* Return: void
-*/
-
+ * print_name: takes in a function and passes the name provided as arg[1] to the accepted function
+ * @name: the name of the person
+ * 
+ * Return: Nothing
+ */
 
 void print_name(char *name, void (*f)(char *))
 {
-	if (!name || !f)
-	{
-		return;
-	}
 	f(name);
 }
 

@@ -2,38 +2,15 @@
 #include "function_pointers.h"
 
 /**
- * print_elem - prints an integer
- * @elem: the integer to print
- *
- * Return: Nothing.
+ * print_name: takes in a function and passes the name provided as arg[1] to the accepted function
+ * @name: the name of the person
+ * 
+ * Return: Nothing
  */
-void print_elem(int elem)
+
+void print_name(char *name, void (*f)(char *))
 {
-    printf("%d\n", elem);
+	f(name);
 }
 
-/**
- * print_elem_hex - prints an integer, in hexadecimal
- * @elem: the integer to print
- *
- * Return: Nothing.
- */
-void print_elem_hex(int elem)
-{
-    printf("0x%x\n", elem);
-}
-
-/**
- * main - check the code
- *
- * Return: Always 0.
- */
-int main(void)
-{
-    int array[5] = {0, 98, 402, 1024, 4096};
-
-    array_iterator(array, 5, &print_elem);
-    array_iterator(array, 5, &print_elem_hex);
-    return (0);
-}
-
+//print_name("sila", print_name_as_is("sila"))
