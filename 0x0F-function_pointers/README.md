@@ -3,6 +3,7 @@ function pointers in C
 - Declaration is return type (*fxnpointername)(parameter types...)
 - It takes a fxn name as value or &fxn name
 - really cool
+- function pointers point to the code itself and also the memory address of the code being pointed to.
 - sample usage would be like below:
 
 
