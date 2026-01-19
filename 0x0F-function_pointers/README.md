@@ -9,18 +9,16 @@
 
 
     ```
-int sum(int a, int b)
-{
- return a + b;
-}
+        int sum(int a, int b)
+        {
+            return a + b;
+        }
 
-// fxn pointer to sum
-int (*sum_ptr)(int, int) = sum 'or' &sum;
+        // fxn pointer to sum
+        int (*sum_ptr)(int, int) = sum 'or' &sum;
 
-//usage:
-sum_ptr(10, 15); or (*sum_ptr)(10, 15)
+        //usage:
+        sum_ptr(10, 15); or (*sum_ptr)(10, 15)
 
-// this works fine
-
-
-```
+        // this works fine
+    ```
