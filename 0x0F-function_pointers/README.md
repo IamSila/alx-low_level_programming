@@ -22,3 +22,11 @@
 
         // this works fine
     ```
+
+    - declaring an array of function pointers:
+    ```
+        return type (*fxpointerArray[])(parameter types) = {list of functions}
+        int (*fxn_arr[])(int, int) = {sum, sub, mult, div} // where sum, sub... are actual functions. 
+    ```
+
+
