@@ -1,4 +1,4 @@
-function pointers in C
+# function pointers in C
 
 - Declaration is return type (*fxnpointername)(parameter types...)
 - It takes a fxn name as value or &fxn name
