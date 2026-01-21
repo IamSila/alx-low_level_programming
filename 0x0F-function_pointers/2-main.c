@@ -59,7 +59,13 @@ int main(void)
 }
 
 
-
+/**
+ * int_index - returns a index for the searched value
+ * @array: the list of elements to search from
+ * @size: the size of the array
+ * @cmp: pointer to function checking the elements
+ * Return: the index value of the elements
+ */
 
 
 int int_index(int *array, int size, int (*cmp)(int))
