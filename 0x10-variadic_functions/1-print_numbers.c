@@ -2,19 +2,12 @@
 #include <stdarg.h>
 #include <stdio.h>
 
-
-
-
 /**
  * print_numbers - prints all its parameters.
  * @separator: the string to be printed after each number.
  * @n: the number of numbers to print.
  * Return: the numbers, integer.
  */
-
-
-
-
 
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
@@ -28,7 +21,7 @@ void print_numbers(const char *separator, const unsigned int n, ...)
         {
             printf("%d", va_arg(args, int));
         }
-        else 
+        else
         {
             printf("%d", va_arg(args, int));
             if (x != n - 1)
