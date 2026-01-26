@@ -2,6 +2,20 @@
 #include <stdarg.h>
 #include <stdio.h>
 
+
+
+
+/**
+ * print_numbers - prints all its parameters.
+ * @separator: the string to be printed after each number.
+ * @n: the number of numbers to print.
+ * Return: the numbers, integer.
+ */
+
+
+
+
+
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
     va_list args;
