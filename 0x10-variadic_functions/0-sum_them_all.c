@@ -3,17 +3,22 @@
 #include <stdio.h>
 
 /**
- * write a function that returns the sum of all its params.
+ * sum_them_all - variadic function to calculate
+ * the sum of all its parameters.
+ * @n: the count of the parameters.
+ * Return: Integer which the sum of the parameters.
  */
 int sum_them_all(const unsigned int n, ...)
 {
 	va_list args;
 	unsigned int x;
 	int results;
+
 	va_start(args, n);
 
 	results = 0;
-	for(x = 0; x < n; x++)
+
+	for (x = 0; x < n; x++)
 	{
 		results += va_arg(args, int);
 	}
